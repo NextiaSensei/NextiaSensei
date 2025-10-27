@@ -1,4 +1,4 @@
-# 👋 Hola, soy [NextiaSensei]
+# 👋 Hola, soy NextiaSensei
 
 👨‍💻 **Psicólogo clínico | Experto en Marketing Digital | Ciencia de Datos | Cyberseguridad | Programador**  
 🎯 Emprendedor, amante de la innovación y la creación de proyectos audaces  
@@ -50,8 +50,8 @@
 
 ## 🌐 Contacto y Redes
 
-- 📧 [tu_email@dominio.com](mailto:tu_email@dominio.com)
-- 💬 [Twitter](https://twitter.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) | [Discord](https://discord.gg/tuServidor)
+- 📧 [nextiacorp33@gmail.com](mailto:nextiacorp33@gmail.com)
+- 💬 [Twitter](https://x.com/Nextia33)) | [LinkedIn](www.linkedin.com/in/jorgesensei-nextia-143a59347) | [Discord](https://discord.gg/kU73htC5)
 
 ---
 
