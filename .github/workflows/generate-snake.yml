@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"  # Se ejecuta cada 6 horas
   workflow_dispatch:
 
 permissions:
@@ -19,9 +19,9 @@ jobs:
         with:
           github_user_name: NextiaSensei
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
+            dist/github-contribution-grid-snake.svg?color_snake=#FF006E&color_dots=#0d1117,#1a1b27,#6B46C1,#F70A8D,#00D4FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00D4FF&color_dots=#161B22,#1f2937,#6B46C1,#F70A8D,#00D4FF
+          
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
