@@ -143,13 +143,30 @@ Plataforma completa de soluciones digitales, cursos y herramientas.
 
 ---
 
-## 🏆 GitHub Trophies
+---
+
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NextiaSensei&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120"/><br/>
+<b>Pull Shark</b><br/>
+<sub>2 PRs Merged</sub>
+<td align="center" width="150">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120"/><br/>
+<b>YOLO</b><br/>
+<sub>Coming Soon</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
 
 ---
 
