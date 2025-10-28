@@ -27,22 +27,17 @@
 
 ## 🚀 Sobre mí
 
-const NextiaSensei = {
-location: "Ecatepec de Morelos, México 🇲🇽",
-role: "Full Stack Developer & Digital Entrepreneur",
-mission: "Transformar errores en oportunidades 💪",
-currentFocus: ["Trading Bots", "Cybersecurity", "Nextia Token (NXT)"],
-lifeGoal: "Subir mi energía y magia, conectando con la vida y Dios 🧙‍♂️✨"
-};
-
-
-- 🎯 Emprendedor solitario con visión de transformación
-- 💼 Administro **Ecosistema Nextia Marketing**
-- 🔐 Especialista en Kali Linux y ciberseguridad
-- 🤖 Creador de herramientas de automatización para trading
-- 📚 Mentor en marketing digital, data science y emprendimiento
+| 🎯 | Emprendedor solitario con visión de transformación |
+|:---|:---|
+| 💼 | Administro **Ecosistema Nextia Marketing** |
+| 🔐 | Especialista en Kali Linux y Ciberseguridad |
+| 🤖 | Creador de herramientas de automatización para trading |
+| 📚 | Mentor en Marketing Digital, Data Science y Emprendimiento |
+| 🧙‍♂️ | Buscando subir mi energía y magia, conectando con la vida y Dios |
+| 🌍 | Ecatepec de Morelos, México |
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
